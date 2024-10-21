@@ -1,0 +1,7 @@
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\bin\Debug\bankingOperations.exe.config
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\bin\Debug\bankingOperations.exe
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\bin\Debug\bankingOperations.pdb
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\obj\Debug\bankingOperations.csproj.AssemblyReference.cache
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\obj\Debug\bankingOperations.csproj.CoreCompileInputs.cache
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\obj\Debug\bankingOperations.exe
+C:\Users\yadhu\Desktop\.Net\bankingOperations\bankingOperations\obj\Debug\bankingOperations.pdb
